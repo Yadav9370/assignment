@@ -32,3 +32,6 @@ cd your-repo-name
 npm install
 # or
 yarn install
+
+### Run 
+npm run dev
